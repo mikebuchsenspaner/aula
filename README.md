@@ -1,4 +1,4 @@
-Na aula eu entendi melhor de forma superficial os conceitos de INNER join, LEFT join e FULL join 
+Na aula eu entendi melhor de forma superficial os conceitos de INNER join, LEFT join e FULL join.
 INNER JOIN
 Pega só os dados que existem nas duas tabelas ao mesmo tempo.
 LEFT JOIN
